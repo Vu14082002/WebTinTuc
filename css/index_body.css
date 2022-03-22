@@ -3,6 +3,7 @@
     margin: 0 auto;
     box-sizing: border-box;
 }
+
 .body_nav > ul {
     margin: 20px 0;
     display: flex;
