@@ -1,4 +1,4 @@
-.content
+.content .selection_body
 {
     color: #262626;
 }
@@ -31,4 +31,45 @@ a{
 {
     font-weight: 300%;
     margin: 30px 0px;
+}
+
+.content >.selection-body
+{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.content >.selection-body > hr
+{
+    border-color: #ffffff;
+    width: 60px;
+}
+
+.content >.selection-body a:link
+{
+    color: #006598;
+}
+
+.content >.selection-body a:hover
+{
+    color: red;
+}
+
+.content >.selection-body >h2
+{
+    margin: 10px 0px 30px 0px;
+    font-weight: normal;
+}
+
+.content >.selection-body >h1
+{
+    font-weight: 300%;
+    margin: 30px 0px;
+}
+
+.content >.selection-body li
+{
+    color: #444444;
+    list-style-type: disc;
+    margin: 7px 30px;
 }
