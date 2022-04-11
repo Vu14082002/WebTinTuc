@@ -1,0 +1,26 @@
+.WebChinh{
+    font-size: 22px;
+    font-weight: bolder;
+    line-height: 22px;
+    color: white;
+}
+.fontSize{
+    font-size: 3.46667rem;
+    line-height: 1.07692;
+    font-weight: 300;
+    margin-bottom: 15px;
+    margin-top: 30px;
+}
+.nato{
+    width: 95.4%;
+    position:absolute;
+    bottom: 0px;
+    background-color: rgb(212, 212, 212);
+    height: 75px;
+    left: 15px;
+    
+    opacity: 0.2;
+}
+.natoChu{
+
+}

@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+}
+.container-fluid{
+    background-image: linear-gradient(to right, #090909 , #300909);
+    border-radius: none;
+}
+.box{
+    width: 500px;
+    margin: 0 auto;
+    background-color: #181616;
+    padding: 50px 40px;
+        color: white;
+    border-radius: 10px;
+}
+.box input[type="text"],.box input[type="password"]{
+    background-color: #464546;
+}
+.checkLogin{
+    color: rgb(207, 90, 90);
+}
+.box ::placeholder {
+    font-weight: 700;
+    color: #fafdfd;
+    opacity: 1; /* Firefox */
+}
+.box  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #fafdfd;
+}
+.box ::-ms-input-placeholder { /* Microsoft Edge */
+    color: #fafdfd;
+}
+.box input:focus{
+    color: #fafdfd;
+}
+.search{
+    margin-top: -3px;
+}
+button > a{
+    text-decoration: none;
+    color: white;
+}
+.theA{
+    color: white;
+    text-decoration:underline;
+}
+.theA:hover{
+    color: #d7d8d8;
+}
+.text-justify{
+    font-size: 18px;
+}

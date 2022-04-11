@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Log in to your acccount</title>
+    <link rel="icon" href="../Image/logo.png" type="image/gif" sizes="16x16">
+    <link rel="stylesheet" href="/bootstrap-4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/index_Footer.css">
+    <link rel="stylesheet" href="/css/init.css">
+    <link rel="stylesheet" href="/css/login.css">
+
+    <link rel="icon" href="./Image/logo.png" type="image/gif" sizes="16x16">
+    <link rel="stylesheet" href="/bootstrap-4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/index_Footer.css">
+    <link rel="stylesheet" href="../css/init.css">
+    <link rel="stylesheet" href="../css/index_Header.css">
+    <script src="/bootstrap-4/js/bootstrap.min.js"></script>
+</head>
+<body >  
+    <div class="container-fluid jumbotron">
+        <div class="box text-center">
+    <script src="/js/checkLogin.js"></script>
+            <h3>TIME</h3>
+            <h5>Log in to your TIME  account</h5>
+            <p>Don't have account?  <a href="#">Sign up</a></p>
+            <div class="form-group ">
+                <input type="email" id="email" placeholder="Email address " onclick="resultEmail()" class="form-control  text-light "  required ><br>
+                <span id="checkEmail"  class="checkLogin text-left p-0" ></span>
+                <input type="password" id="pass"  placeholder="Password" class="form-control text-light"  required> <br> 
+                <span  id="checkPass" class="checkLogin"></span> <br>
+                <button type="button" class="btn btn-danger w-100 p-3">Login</button>                
+            </div>
+        
+        </div>
+        <img src="../" alt="">
+    </div>
+
+    <!-- --- footer  -->
+    <div class="footer_js" id="footer_js"></div>
+    <script src="/js/footer.js"></script>
+
+</body>
+</html>
