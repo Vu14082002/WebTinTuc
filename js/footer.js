@@ -175,9 +175,9 @@ function footer() {
               <li><a href="#">Photos</a></li>
               <li><a href="#">Longform</a></li>
               <li><a href="#">Investigations</a></li>
-              <li><a href="/html/info.html">Information About Members</a></li>
-              <li><a href="/html/term.html">Term of Uses</a></li>
-              <li><a href="/html/privacy.html">News & Sports Privacy Policy</a></li>
+              <li><a href="../html/info.html">Information About Members</a></li>
+              <li><a href="../html/term.html">Term of Uses</a></li>
+              <li><a href="../html/privacy.html">News & Sports Privacy Policy</a></li>
             </ul>
           </div>
         </div>
