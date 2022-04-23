@@ -137,11 +137,11 @@ function footer() {
             <ul>
               <li><a href="#">Live TV</a></li>
               <li><a href="#">Digital Studios</a></li>
-              <li><a href="#">CNN Films</a></li>
+              <li><a href="#">TIME Films</a></li>
               <li><a href="#">HLN</a></li>
               <li><a href="#">TV Schedule</a></li>
               <li><a href="#">TV Shows A-Z</a></li>
-              <li><a href="#">CNNVR</a></li>
+              <li><a href="#">TIMEVR</a></li>
             </ul>
           </div>
           <!-- col 11 -->
@@ -154,7 +154,7 @@ function footer() {
               <li><a href="#">Impact Your World</a></li>
               <li><a href="#">Inside Africa</a></li>
               <li><a href="#">2 Degrees</a></li>
-              <li><a href="#">CNN Heroes</a></li>
+              <li><a href="#">TIME Heroes</a></li>
               <li><a href="#">All Features</a></li>
             </ul>
           </div>
@@ -175,10 +175,9 @@ function footer() {
               <li><a href="#">Photos</a></li>
               <li><a href="#">Longform</a></li>
               <li><a href="#">Investigations</a></li>
-              <li><a href="#">CNN Profiles</a></li>
-              <li><a href="#">CNN Leadership</a></li>
-              <li><a href="#">CNN Newsletters</a></li>
-              <li><a href="#">Work for CNN</a></li>
+              <li><a href="/html/info.html">Information About Members</a></li>
+              <li><a href="/html/term.html">Term of Uses</a></li>
+              <li><a href="/html/privacy.html">News & Sports Privacy Policy</a></li>
             </ul>
           </div>
         </div>
