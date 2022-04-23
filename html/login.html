@@ -28,11 +28,11 @@
             <h5 >Log in to your TIME  account</h5>
             <p>Don't have account?  <a href="../html/SignUp.html">Sign up</a></p>
             <div class="form-group ">
-                <input type="text" id="email" placeholder="Email address " onblur="checkEmail()" class="form-control  text-light "  required ><br>
+                <input type="text" id="email" placeholder="Email address " onchange="checkEmail()" class="form-control  text-light "  required ><br>
                 <p class="text-left">
                     <span id="checkEmail"  class="checkLogin text-left text-right mb-2 text-danger" ></span>
                 </p>
-                <input type="password" id="pass"  placeholder="Password" class="form-control text-light" onblur="checkPass()" required> <br> 
+                <input type="password" id="pass"  placeholder="Password" class="form-control text-light" onchange="checkPass()" required> <br> 
                 <p class="text-left ">
                     <span id="checkPass"  class="checkLogin text-left text-right mb-2 text-danger" ><span>
                 </p> <br>
