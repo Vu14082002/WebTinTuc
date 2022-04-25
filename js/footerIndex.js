@@ -1,5 +1,5 @@
 function footer() {
-    document.getElementById("footer_js").innerHTML=`
+    document.getElementById("footer_jss").innerHTML=`
     <footer id="footer">
       <div class="main">
         <div class="main__top">
@@ -18,29 +18,28 @@ function footer() {
         <div class="main__mid">
           <!-- col 1 -->
           <div class="col1">
-            <a href="../html/World.html" class="heading">World</a>
+            <a href="./html/World.html" class="heading">World</a>
             <ul>
-              <li><a href="../html/Africa.html">Africa</a></li>
-              <li><a href="../html/Americas.html">Americas</a></li>
-              <li><a href="../html/Asia.html">Asia</a></li>
-              <li><a href="../html/Australia.html">Australia</a></li>
-              <li><a href="../html/China.html">China</a></li>
+              <li><a href="./html/Africa.html">Africa</a></li>
+              <li><a href="./html/Americas.html">Americas</a></li>
+              <li><a href="./html/Asia.html">Asia</a></li>
+              <li><a href="./html/Australia.html">Australia</a></li>
+              <li><a href="./html/China.html">China</a></li>
               <li><a href="../html/Europe.html">Europe</a></li>
-              <li><a href="../html/India.html">India</a></li>
-              <li><a href="../html/MiddleEast.html">Middle East</a></li>
-              <li><a href="../html/UnitedKingdom.html">United Kingdom</a></li>
+              <li><a href="./html/India.html">India</a></li>
+              <li><a href="./html/MiddleEast.html">Middle East</a></li>
+              <li><a href="./html/UnitedKingdom.html">United Kingdom</a></li>
             </ul>
           </div>
-
           <!-- col 2  -->
           <div class="col2">
-          <a href="../html/US_Politics.html" class="heading">US Politics</a>
-          <ul>
-            <li><a href="../html/TheBidenPresidency.html">The Biden Presidency</a></li>
-            <li><a href="../html/Facts .html">Facts First</a></li>
-            <li><a href="../html/USElection.html">US Elections</a></li>
-          </ul>
-        </div>
+            <a href="./html/US_Politics.html" class="heading">US Politics</a>
+            <ul>
+              <li><a href="./html/TheBidenPresidency.html">The Biden Presidency</a></li>
+              <li><a href="./html/Facts .html">Facts First</a></li>
+              <li><a href="./html/USElection.html .html">US Elections</a></li>
+            </ul>
+          </div>
           <!-- col 3  -->
           <div class="col3">
             <a href="#" class="heading">Business</a>
