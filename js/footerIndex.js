@@ -25,7 +25,7 @@ function footer() {
               <li><a href="./html/Asia.html">Asia</a></li>
               <li><a href="./html/Australia.html">Australia</a></li>
               <li><a href="./html/China.html">China</a></li>
-              <li><a href="../html/Europe.html">Europe</a></li>
+              <li><a href="./html/Europe.html">Europe</a></li>
               <li><a href="./html/India.html">India</a></li>
               <li><a href="./html/MiddleEast.html">Middle East</a></li>
               <li><a href="./html/UnitedKingdom.html">United Kingdom</a></li>
@@ -194,13 +194,13 @@ function footer() {
           <div class="instagram">
             <a href="#"> <i class="fab fa-instagram"></i></a>
           </div>
-          <div class="follow_us"><a href="../html/SiteMap.html">FLOW US</a></div>
+          <div class="follow_us"><a href="../html/SiteMap.html">FOLLOW US</a></div>
         </div>
         <div class="text-light pb-5">
-        <h5 class="info text-light pt-5" style="border-top: 1px solid white;">&copy; 2022 Cable News Network.A Warner Bros. Discovery Company.All Rights Reserved.
-          CNN Sans ™ & © 2016 Cable News Network.</h5>
+        <h5 class="info text-light pt-5" style="border-top: 1px solid white;">&copy; 2022 TIME.A Warner Bros. Discovery Company.All Rights Reserved.
+           & © 2016 TIME.</h5>
           <p class="text-light">
-            <a href="../html/SiteMap.html" class="text-light">SITE MAP</a> | <a href="../html/info.html" class="text-light">INFORMATION</a>
+            <a href="./html/SiteMap.html" class="text-light">SITE MAP</a> | <a href="../html/info.html" class="text-light">INFORMATION</a>
           </p>
        </div>
       </div>
